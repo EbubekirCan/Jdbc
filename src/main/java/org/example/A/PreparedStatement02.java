@@ -1,3 +1,5 @@
+package org.example.A;
+
 import java.sql.*;
 
 public class PreparedStatement02 {
